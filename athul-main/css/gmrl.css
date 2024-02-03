@@ -1,0 +1,26 @@
+image{width: 100%;}
+.t2{padding-top: 6px;padding-bottom: 6px;padding-left: 200px; }
+.c1{background-color: transparent;}
+.t3{color: #fff;}
+.logo-image{
+    width: 250px;
+    height: 80px;
+    border-radius: 10%;
+    overflow: hidden;
+    margin-top: 10px;
+    padding-right: 10px;
+}
+.m1{background-color: rgb(52, 117, 52);}
+.m2{background-color: rgb(148, 243, 148);}
+.v1{padding-left: 100px;padding-top: 150px;background-color: aliceblue;display: inline;}
+.v2{padding-left: 100px;padding-top: 150px;background-color: aliceblue;display: inline;}
+.a1,.a2{padding-left: 0%;}
+.w5{height: 50px;width: 50px;}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
